@@ -1,3 +1,7 @@
+Brx first go at creative AI work...wish me luck!
+
+---------------------- original dev read me -------------------------------
+
 This is a plugin for Lightroom Classic that generates alt text for photos using ChatGPT-4o and saves it to the caption field in the photo's metadata.
 
 To use it:
