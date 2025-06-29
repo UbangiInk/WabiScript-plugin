@@ -1,4 +1,9 @@
-Brx first go at creative AI work...wish me luck!
+First attempt at creative AI work... Wish me luck!
+I intend to build on the image review but add the following nuances:
+- Creative personas to write captions for photography in a Lightroom Classic catalog workflow.
+- Generate hiaku-like poetic, zen koan-like prose for images
+- Provide a robust UI for interface
+
 
 ---------------------- original dev read me -------------------------------
 
